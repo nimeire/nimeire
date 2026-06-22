@@ -1,16 +1,30 @@
-## Hi there 👋
+# Oi! Eu sou a Nicolly 👋
 
-<!--
-**nimeire/nimeire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de DSM na FATEC Praia Grande
 
-Here are some ideas to get you started:
+☕ Java | Python | Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvendo projetos reais para aprender na prática
+
+🤖 Apaixonada por Inteligência Artificial
+
+---
+
+## Atualmente
+
+📚 Estudando:
+- Java
+- Python
+- Spring Boot
+- Django
+- SQL
+
+💻 Desenvolvendo:
+- IGood
+
+🎯 Objetivo:
+Trabalhar com Inteligência Artificial e Engenharia de Software.
+
+---
+
+> "Todo especialista já foi iniciante um dia."
