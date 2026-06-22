@@ -2,7 +2,7 @@
 
 🎓 Estudante de DSM na FATEC Praia Grande
 
-☕ Java | Python | Banco de Dados
+☕ Java | Python | Banco de Dados | IA
 
 🚀 Desenvolvendo projetos reais para aprender na prática
 
@@ -18,12 +18,8 @@
 - Spring Boot
 - Django
 - SQL
+- Inteligencia Artificial
 
-💻 Desenvolvendo:
-
-• IGood - Sistema de Cantina
-• Estudos de Java e Spring Boot
-• Projetos acadêmicos da FATEC
 
 ## 🚀 Projetos
 
