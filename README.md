@@ -23,7 +23,7 @@
 
 ## 🚀 Projetos
 
-### 🍔 IGood
+### 🍔 IGod
 Sistema para gerenciamento de cantina de igreja.
 
 ### 🩸 Blood Match
